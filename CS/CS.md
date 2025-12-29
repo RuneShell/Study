@@ -19,7 +19,7 @@
 | 6-1_HeapType.hpp      | heap (max heap)                                       |
 | 6-2_PriorityQue.hpp   | priority queue : max heap                             |
 
-
+스테가노그래피는 숨겨진 정보의 존재가 의심하지 않는 사람의 검사에는 드러나지 않도록 다른 메시지나 물리적 개체 내에 정보를 나타내는 기술이다. 컴퓨팅/전자 환경에서는 컴퓨터 파일, 메시지, 이미지 또는 비디오가 다른 파일, 메시지, 이미지 또는 비디오 내에 숨겨진다.
 
 ## [2] Algorithm
 | Algorithm                 | info |
